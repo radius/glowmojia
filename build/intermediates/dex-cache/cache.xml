@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/patrick/Desktop/glowmojia/glowmoji/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0177c46705c9216c3102d0a0332bb8193e7847a7">
+        <dex dex="/Users/patrick/Desktop/glowmojia/app/build/intermediates/pre-dexed/debug/classes_638c8e566cbec47f6bc84ddef98089042042b657.jar" />
+    </item>
+
+</items>
